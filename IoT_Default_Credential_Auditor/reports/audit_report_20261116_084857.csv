@@ -1,0 +1,6 @@
+timestamp,service,status,username,password,detail
+2026-11-16T08:48:57,TELNET,DEFAULT CREDENTIAL FOUND,admin,123456,A configured common credential successfully authenticated
+2026-11-16T08:48:57,HTTP,DEFAULT CREDENTIAL FOUND,admin,admin,A configured common credential successfully authenticated
+2026-11-16T08:48:57,TELNET,MATCH FOUND,admin,123456,Dictionary attempts: 2
+2026-11-16T08:48:57,TELNET,DEFAULT CREDENTIAL FOUND,admin,123456,A configured common credential successfully authenticated
+2026-11-16T08:48:57,HTTP,DEFAULT CREDENTIAL FOUND,admin,admin,A configured common credential successfully authenticated

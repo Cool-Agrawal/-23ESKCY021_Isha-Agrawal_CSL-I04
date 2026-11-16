@@ -1,0 +1,6 @@
+timestamp,service,status,username,password,detail
+2026-11-15T14:23:07,TELNET,UNAVAILABLE,,,Local emulator is not running
+2026-11-15T14:23:07,HTTP,DEFAULT CREDENTIAL FOUND,admin,admin,A configured common credential successfully authenticated
+2026-11-15T14:23:07,TELNET,UNAVAILABLE,admin,,Dictionary attempts: 1
+2026-11-15T14:23:07,TELNET,UNAVAILABLE,,,Local emulator is not running
+2026-11-15T14:23:07,HTTP,DEFAULT CREDENTIAL FOUND,admin,admin,A configured common credential successfully authenticated
